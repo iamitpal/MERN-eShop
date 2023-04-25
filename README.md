@@ -79,7 +79,7 @@
 # 7. Order Summary Page
 ![OSummary](https://user-images.githubusercontent.com/109168129/234340536-9a9340ce-95af-4153-b574-ceba42d23fcc.png)
 
-# 8. payment Method
+# 8. Payment Method
 ![Payment Method](https://user-images.githubusercontent.com/109168129/234340885-2a56dd81-4ece-4c34-9733-ad4a74a8679b.png)
 ![Paypal Payment Method](https://user-images.githubusercontent.com/109168129/234341343-ffde6a61-635f-43b7-8b04-bcce2a0e7a9c.png)
 
